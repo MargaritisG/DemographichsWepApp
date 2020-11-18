@@ -1,8 +1,3 @@
-<?php
-	$cookie_name = "vote";
-	$cookie_value = false;
-	setcookie($cookie_name, $cookie_value);
-?>
 <!DOCTYPE html>
 <html>
 <head>
